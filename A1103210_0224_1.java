@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Homework1 {
+public class A1103210_0224_1 {
     public static void main(String[]argv){
         System.out.println("請輸入任意整數:");
         Scanner myInput1 = new Scanner(System.in);
